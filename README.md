@@ -1,3 +1,7 @@
+## ESP32 MLX90640 Thermal Camera + TensorFlow Lite
+[![Смотреть видео](https://img.youtube.com/vi/4BxwZNG2Q6w/0.jpg)](https://youtu.be/4BxwZNG2Q6w)
+
+
 ## BOARDS MANAGER:
 
 esp32 by Espressif Systems: https://github.com/espressif/arduino-esp32
